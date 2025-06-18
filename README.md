@@ -56,7 +56,11 @@ This repository contains the Verilog implementation of a parameterized Arithmeti
 ## Files
 
 Design_Code.v – Verilog source code for the ALU design
+
 Alu_Self_Testbench.v – Self-checking testbench with assertions and pass/fail messages
+
 Alu_Testbench_Simulation.v – Waveform-oriented testbench
+
 stimulus1.txt – Input data file for testbenches (if required)
+
 DESIGN_DOCUMENT_ALU.pdf – Full design specification and documentation
