@@ -1,7 +1,7 @@
 `include "design.v"
 `define PASS 1'b1
 `define FAIL 1'b0
-`define no_of_testcase 118
+`define no_of_testcase 123
 
 module test_bench_alu #(parameter WIDTH = 4, parameter CMD_WIDTH = 4)();
 // 19 CONSTANTS+ 2 INPUTS +(RESERVED+OUTPUT)+CMD
