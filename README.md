@@ -1,4 +1,4 @@
-# ALU_PROJECT
+
 # ALU Design in Verilog
 
 ## Project Overview
